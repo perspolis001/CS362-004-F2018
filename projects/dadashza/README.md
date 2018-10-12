@@ -1,2 +1,1 @@
-Name: Arman Dadashzadeh 
-Onid: dadashza
+This is assignment 2.
